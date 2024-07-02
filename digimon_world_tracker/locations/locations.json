@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Recruitment",
+        "children": [
+            {
+                "name": "Agumon",
+                "access_rules": [
+                    "toggle"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1750,
+                        "y": 700
+                    },
+                    {
+                        "map": "map2",
+                        "x": 1000,
+                        "y": 500
+                    }
+                ]
+            },            
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+// sets layouts for shadred items grids
+// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "4, 4",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "agumon",
+								"gabumon",
+								"patamon",
+								"biyomon",
+								"elecmon",
+								"kunemon"
+							],
+							[
+								"palmon",
+                                "betamon",
+								"penguinmon",
+								"greymon",
+								"monochromon",
+								"ogremon"
+                            ],
+                            [
+                                "airdramon",
+                                "kuwagamon",
+								"whamon",
+								"frigimon",
+								"nanimon",
+								"meramon"
+                            ],
+							[
+								"drimogemon",
+								"leomon",
+								"kokatorimon",
+								"vegiemon",
+								"shellmon",
+								"mojyamon"								
+							],
+							[
+								"birdramon",
+								"tyrannomon",
+								"angemon",
+								"unimon",
+								"ninjamon",
+								"coelamon"
+							],
+							[
+								"numemon",
+								"centarumon",
+								"devimon",
+								"bakemon",
+								"kabuterimon",
+								"seadramon"
+							],
+							[
+								"garurumon",
+								"sukamon",
+								"metalgreymon",
+								"skullgreymon",
+								"giromon",
+								"mamemon"								
+							],
+							[
+								"monzaemon",
+								"digitamamon",
+								"andromon",
+								"megadramon",
+								"piximon",
+								"metalmamemon"
+							],
+							[
+								"vademon",
+								"etemon"
+							]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
