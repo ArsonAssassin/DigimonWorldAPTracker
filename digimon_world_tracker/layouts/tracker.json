@@ -18,6 +18,15 @@
                                 "type": "layout",
                                 "key": "shared_item_grid"
                             }
+                        },
+						{
+                            "title": "File Island",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "fileisland"
+                                ]
+                            }
                         }
                     ]
                 }

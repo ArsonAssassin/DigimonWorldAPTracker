@@ -9,23 +9,43 @@
                 ],
                 "sections": [
                     {
-                        "name": "Example Section 1",
-                        "item_count": 1
+                        "name": "Agumon",
+                        "item_count": 1,
+						"hosted_item": "agumon"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "map1",
-                        "x": 1750,
-                        "y": 700
+                        "map": "fileisland",
+                        "x": 470,
+                        "y": 460,
+						"size": 10,
+						"border_thickness": 2
                     },
-                    {
-                        "map": "map2",
-                        "x": 1000,
-                        "y": 500
-                    }
                 ]
-            },            
+            },
+			{
+                "name": "Betamon",
+                "access_rules": [
+                    "toggle"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Betamon",
+                        "item_count": 1,
+						"hosted_item": "betamon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fileisland",
+                        "x": 780,
+                        "y": 500,
+						"size": 10,
+						"border_thickness": 2
+                    },
+                ]
+            },                   
         ]
     }
 ]

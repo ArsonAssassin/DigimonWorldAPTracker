@@ -4,7 +4,7 @@
 {
     "name": "Digimon World 1 Tracker",
     "game_name": "Digimon World",
-    "package_version": "1.0.0.0",
+    "package_version": "1.1.0.0",
     "package_uid": "digimon_world_tracker",
 	"platform": "ap",
     "author": "ArsonAssassin",
